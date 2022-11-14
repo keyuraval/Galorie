@@ -1,1 +1,2 @@
-Galry clone using HTML CSS and JavaScript
+Galry clone using HTML CSS and JavaScript made for internship assignment
+
